@@ -1,7 +1,7 @@
 url: https://api.pabio.com/health
-status: down
-code: 503
-responseTime: 492
-lastUpdated: 2021-04-30T18:05:35.260Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2021-04-30T18:41:18.381Z
 startTime: Fri Apr 30 2021 10:31:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

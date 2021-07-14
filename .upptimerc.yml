@@ -4,7 +4,7 @@ sites:
   - name: Pabio.com
     url: https://pabio.com
   - name: Pabio API
-    url: https://api.pabio.com/health
+    url: https://pabioapi.com/health
 status-website:
   cname: pabiostatus.com
   logoUrl: https://github.com/pabio-status/production/raw/HEAD/assets/logo.svg

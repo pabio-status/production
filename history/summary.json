@@ -6,18 +6,16 @@
     "slug": "pabio-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 263,
-    "timeWeek": 236,
-    "timeMonth": 239,
-    "timeYear": 322,
-    "dailyMinutesDown": {
-      "2021-09-29": 10
-    }
+    "time": 327,
+    "timeDay": 682,
+    "timeWeek": 339,
+    "timeMonth": 265,
+    "timeYear": 327,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pabio API",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
-    "timeDay": 337,
-    "timeWeek": 431,
-    "timeMonth": 394,
+    "timeDay": 329,
+    "timeWeek": 418,
+    "timeMonth": 393,
     "timeYear": 395,
     "dailyMinutesDown": {}
   }

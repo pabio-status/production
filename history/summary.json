@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/pabio.com",
     "slug": "pabio-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 321,
-    "timeDay": 222,
-    "timeWeek": 229,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 320,
+    "timeDay": 217,
+    "timeWeek": 228,
     "timeMonth": 259,
-    "timeYear": 321,
-    "dailyMinutesDown": {
-      "2021-10-10": 13
-    }
+    "timeYear": 320,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pabio API",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 325,
-    "timeWeek": 397,
-    "timeMonth": 404,
+    "timeDay": 370,
+    "timeWeek": 406,
+    "timeMonth": 402,
     "timeYear": 394,
     "dailyMinutesDown": {}
   }

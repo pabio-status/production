@@ -22,17 +22,19 @@
     "url": "https://v20211107.pabioapi.com/health",
     "icon": "https://favicons.githubusercontent.com/v20211107.pabioapi.com",
     "slug": "pabio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 414,
-    "timeWeek": 380,
-    "timeMonth": 407,
-    "timeYear": 412,
-    "dailyMinutesDown": {}
+    "time": 408,
+    "timeDay": 244,
+    "timeWeek": 342,
+    "timeMonth": 396,
+    "timeYear": 411,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
